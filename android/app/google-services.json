@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498808547391",
+    "project_id": "zomatoapp-e861b",
+    "storage_bucket": "zomatoapp-e861b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498808547391:android:94f52986ff729b5c8d708a",
+        "android_client_info": {
+          "package_name": "com.example.zometo_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvZcHqBxFSOcWdN7nV4930OdVDDTjTqf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
